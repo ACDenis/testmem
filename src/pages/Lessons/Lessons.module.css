@@ -1,0 +1,41 @@
+.title__container {
+  padding: 20px 0;
+  color: #333b85;
+  text-align: center;
+  border-bottom: 2px solid #333b85;
+}
+.main {
+  display: flex;
+  justify-content: space-around;
+}
+.button__container {
+  margin-top: 30px;
+}
+.download__btn {
+  background: rgba(15, 29, 88, 0.9);
+  color: #fff;
+  padding: 18px 20px;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  transition: 0.2s;
+  flex-grow: 1;
+  border-radius: 8px;
+  border: 0px;
+}
+@media (max-width: 900px) {
+}
+@media (max-width: 550px) {
+  .main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .button__container {
+    text-align: center;
+  }
+  .adv__container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,105 @@
+.title__container {
+  /* padding: 35px 0; */
+  background: rgba(240, 240, 240, 0.632);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  font-weight: 300;
+}
+.table__fl {
+  display: flex;
+  flex-direction: column;
+}
+
+.news__container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px;
+}
+/* .delete__btn {
+  background-color: red;
+}
+.del {
+  background-color: #42f5a1;
+} */
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  margin-top: 20px;
+}
+
+.tab {
+  list-style: none;
+  padding: 8px 25px;
+  font-weight: lighter;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.tab__active {
+  background: rgba(15, 29, 88, 0.9);
+  color: #fff;
+}
+
+.tab__panel {
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+}
+.styled__table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+	width: 80%;
+}
+.styled__table thead tr {
+    background-color: #333b85;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled__table th,
+.styled__table td {
+    padding: 12px 15px;
+}
+.styled__table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled__table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled__table tbody tr:last-of-type {
+    border-bottom: 2px solid #333b85;
+}
+.styled__table tbody tr.active__row {
+    font-weight: bold;
+    color: #333b85;
+}
+
+.logoutbtn {
+  /* list-style: none; */
+  font-weight: lighter;
+  /* border-radius: 1px; */
+  cursor: pointer;
+  color: white;
+  border-style: none;
+  background-color: #333b85;
+  padding: 5px;
+  float: right;
+  top: 0;
+
+}

@@ -1,0 +1,7 @@
+.carousel {
+	object-fit:cover;
+	height: 100vh;
+}
+.main_wrapper {
+    position: relative;
+}

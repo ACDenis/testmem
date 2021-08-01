@@ -1,0 +1,222 @@
+{
+  "header": [
+    {
+      "title": "Коледж",
+      "children": [
+        {
+          "title": "Про коледж",
+          "path": "/about",
+          "children": []
+        },
+        {
+          "title": "Структура",
+          "children": [
+            { "title": "Ієрархія", "path": "/hierarchy" },
+            {
+              "title": "Керівництво",
+              "path": "/leadership"
+            },
+            {
+              "title": "Цикли", "path":"/cycles"
+            },
+            {
+              "title": " Відділення",
+              "path": "/viddtilennya"
+            },
+            {
+              "title": " Канцелярія",
+              "path": "/kancelaria"
+            },
+            {
+              "title": " Бухгалтерія",
+              "path": "/buhalteria"
+            },
+            {
+              "title": "Адміністративно-господарча частина",
+              "path": "/hosp-chastuna"
+            }
+          ]
+        },
+        {
+          "title": "Педагогічна рада",
+          "path": "/pedagog-rada",
+          "children": []
+        },
+        {
+          "title": "Науково методична рада",
+          "path": "/science-method-rada",
+          "children": []
+        },
+        {
+          "title": "Профспілковий комітет",
+          "path": "/prof-commitet",
+          "children": []
+        },
+        {
+          "title": "Нормативні документи коледжу",
+          "path": "/normativ-docs",
+          "children": []
+        },
+        {
+          "title": "Наші партнери",
+          "path": "/partners",
+          "children": []
+        },
+        {
+          "title": "Система менеджменту якості",
+          "path": "/system-quality",
+          "children": []
+        },
+        {
+          "title": "Наукова міжнародна діяльність",
+          "path": "/science-dilnist",
+          "children": []
+        },
+        {
+          "title": "Публічна інформація",
+          "path": "/public-info",
+          "children": []
+        },
+        {
+          "title": "Академічна доброчесність",
+          "path": "/academ-dobrches",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Майбутнім студентам",
+      "children": [
+        {
+          "title": "Актуальна інформація",
+          "path": "/actual-info",
+          "children": []
+        },
+        {
+          "title": "Вартість навчання",
+          "path": "/cost",
+          "children": []
+        },
+        {
+          "title": "Спеціальності",
+          "path": "/specialities",
+          "children": []
+        },
+        {
+          "title": "Умови вступу",
+          "path": "/rules",
+          "children": []
+        },
+        {
+          "title": "Підготовчі курси",
+          "path": "/courses",
+          "children": []
+        },
+        {
+          "title": "Гуртожитки",
+          "path": "/dormitories",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Навчання",
+      "children": [
+        {
+          "title": "Розклад занять",
+          "path": "/lessons",
+          "children": []
+        },
+        {
+          "title": "Студентське самоврядування",
+          "path": "/student-municipality",
+          "children": []
+        },
+        {
+          "title": "Стипендія",
+          "path": "/scholarship",
+          "children": []
+        },
+        {
+          "title": "Працевлаштування",
+          "path": "/employment",
+          "children": []
+        },
+        {
+          "title": "Освітні програми",
+          "path": "/educational-program",
+          "children": []
+        },
+        {
+          "title": "Освітні ресурси",
+          "children": [
+            {
+              "title": "Бібліотека",
+              "path": "/library",
+              "children": []
+            },
+            {
+              "title": "Moodle",
+              "path": "https://moodle.org/?lang=uk",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Дуальна освіта",
+          "path": "/dual-education",
+          "children": []
+        },
+        {
+          "title": "Досягнення",
+          "path": "/achievement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Дозвілля",
+      "children": [
+        {
+          "title": "Культура",
+          "path": "/culture",
+          "children": []
+        },
+        {
+          "title": "Спорт",
+          "path": "/sport",
+          "children": []
+        },
+        {
+          "title": "Зони відпочинку",
+          "path": "/relax_zone",
+          "children": []
+        },
+        {
+          "title": "Життя поза коледжем",
+          "path": "/life_after_college",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Підвищення кваліфікації",
+      "children": [
+        {
+          "title": "Перелік курсів",
+          "path": "/all-courses",
+          "children": []
+        },
+        {
+          "title": "Свідоцтва",
+          "path": "/certificate",
+          "children": []
+        }
+      ]
+    },{
+      "title": "Актуальні новини",
+      "path": "/news",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+.adv__inner {
+  height: 250px;
+  width: 230px;
+  position: relative;
+  cursor: pointer;
+}
+.bg__img {
+  width: 230px;
+  border-radius: 5px;
+  object-fit: cover;
+  height: 100%;
+}
+.tex__container {
+  bottom: 0px;
+  position: absolute;
+  padding: 20px;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  opacity: 0.8;
+  max-height: 50%;
+}
+
+.hover__container :hover {
+  opacity: 0;
+  /* background-color: #020319;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px; */
+}
+.desc {
+  font-size: 10px;
+  
+}
+.text {
+  font-size: 13px;
+ 
+}
+.main__wrapper {
+  padding: 30px 0;
+}
