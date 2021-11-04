@@ -43,7 +43,7 @@ const PageComponent = ({pageTitle, adv, fetchAllAdv}) => {
               .reverse()
               .slice(0, 3)
               .map((advItem, i) => (
-                <Adv {...{advItem}} key={advItem._id}/>
+                <Adv {...{advItem}} key={advItem._id}/> 
               ))}
           </div>
         </div>
